@@ -1,8 +1,0 @@
-main
-develop
-feature/project-setup
-feature/pdf-streaming
-feature/multipart-upload
-feature/rabbitmq
-feature/load-testing
-feature/documentation
