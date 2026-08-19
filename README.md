@@ -1,6 +1,6 @@
 # KiotaPay streaming invoice service
 
-Java 21 / Spring Boot service that accepts invoice jobs asynchronously, generates PDFs directly into a bounded pipe, and uploads them to S3-compatible storage with multipart upload.
+Java 25 / Spring Boot service that accepts invoice jobs asynchronously, generates PDFs directly into a bounded pipe, and uploads them to S3-compatible storage with multipart upload.
 
 ## Run
 
